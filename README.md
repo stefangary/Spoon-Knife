@@ -39,3 +39,7 @@ git push origin
 7. And, the results go to my forked repository, not the original
 repository.  There is an option to push my fork back into the
 original repository, but I don't need to do that now.
+
+8. In the GitHub interface, when I had to click on the drop down box
+to push my commit to my fork's master rather than the original repo.
+
